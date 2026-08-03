@@ -11,13 +11,12 @@
 
 I enjoy composing music and listening to music both as a producer and a musicophile.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorhmcorreia" alt="vitorhmcorreia" /></a> </p>
+
+<p align="left"> <img src="https://github-trophies.devomb.com/?username=vitorhmcorreia&theme=onedark" alt="vitorhmcorreia" /> </p>
 
 
 <h3 align="left">Let's connect</h3>
 <p align="left">
-<a href="https://dev.to/vitorhmcorreia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vitorhmcorreia" height="30" width="40" /></a>
-<a href="https://twitter.com/vitorhmcorreia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vitorhmcorreia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vitorhmcorreia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitorhmcorreia" height="30" width="40" /></a>
 </p>
 
