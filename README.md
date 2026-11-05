@@ -21,7 +21,7 @@ I've spent 25+ years on the operations side of IT, as a sysadmin, support engine
 ### 🛠️ Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,py,docker,git,gitlab,githubactions,grafana,prometheus,postgres,mysql,aws,cloudflare,rust&perline=14" alt="Linux, Bash, Python, Docker, Git, GitLab, GitHub Actions, Grafana, Prometheus, PostgreSQL, MySQL, AWS, Cloudflare, Rust" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,py,docker,git,gitlab,githubactions,grafana,prometheus,postgres,mysql,aws,cloudflare&perline=13" alt="Linux, Bash, Python, Docker, Git, GitLab, GitHub Actions, Grafana, Prometheus, PostgreSQL, MySQL, AWS, Cloudflare" />
 </p>
 
 <p>
