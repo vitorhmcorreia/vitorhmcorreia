@@ -43,7 +43,11 @@ I've spent 25+ years on the operations side of IT, as a sysadmin, support engine
 | [nextcloud-passwords-manager](https://github.com/vitorhmcorreia/nextcloud-passwords-manager) | A desktop app for my self-hosted password manager (Nextcloud Passwords) that keeps working offline |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vitorhmcorreia/vitorhmcorreia/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorhmcorreia/vitorhmcorreia/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorhmcorreia/vitorhmcorreia/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/vitorhmcorreia/vitorhmcorreia/output/github-contribution-grid-snake.svg" alt="Contribution graph animation" />
+  </picture>
 </p>
 
 <sub>Off the clock: composing and producing music 🎹</sub>
