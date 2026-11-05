@@ -21,7 +21,7 @@ I've spent 25+ years on the operations side of IT, as a sysadmin, support engine
 ### 🛠️ Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,py,docker,git,gitlab,githubactions,grafana,prometheus,postgres,mysql,aws,cloudflare&perline=13" alt="Linux, Bash, Python, Docker, Git, GitLab, GitHub Actions, Grafana, Prometheus, PostgreSQL, MySQL, AWS, Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,py,docker,git,gitlab,grafana,postgres,mysql,aws,cloudflare&perline=11" alt="Linux, Bash, Python, Docker, Git, GitLab, Grafana, PostgreSQL, MySQL, AWS, Cloudflare" />
 </p>
 
 <p>
@@ -33,12 +33,12 @@ I've spent 25+ years on the operations side of IT, as a sysadmin, support engine
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
 
-### 📌 Things I've built
+### 📌 Things I've built with Claude Code
 
-| Project | What it is |
+| Project | The problem it solves |
 |---|---|
-| [thock-wayland-addon](https://github.com/vitorhmcorreia/thock-wayland-addon) | Wayland support for Thock: key events via a locked-down systemd helper (privilege separation) |
-| [nextcloud-passwords-manager](https://github.com/vitorhmcorreia/nextcloud-passwords-manager) | Offline desktop client for Nextcloud Passwords (Rust, Tauri + Svelte) |
+| [thock-wayland-addon](https://github.com/vitorhmcorreia/thock-wayland-addon) | Thock, an app that plays keyboard click sounds, only worked on X11. This makes it work on Wayland: a small, locked-down system service reads the key presses, so the app itself never needs access to the keyboard |
+| [nextcloud-passwords-manager](https://github.com/vitorhmcorreia/nextcloud-passwords-manager) | A desktop app for my self-hosted password manager (Nextcloud Passwords) that keeps working offline |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vitorhmcorreia/vitorhmcorreia/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" />
