@@ -21,7 +21,7 @@ I've spent 25+ years on the operations side of IT, as a sysadmin, support engine
 ### 🛠️ Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,py,docker,git,gitlab,grafana,postgres,mysql,aws,cloudflare&perline=11" alt="Linux, Bash, Python, Docker, Git, GitLab, Grafana, PostgreSQL, MySQL, AWS, Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,py,docker,git,gitlab,grafana,postgres,mysql,aws,cloudflare,vscode&perline=12" alt="Linux, Bash, Python, Docker, Git, GitLab, Grafana, PostgreSQL, MySQL, AWS, Cloudflare, VS Code" />
 </p>
 
 <p>
@@ -29,6 +29,8 @@ I've spent 25+ years on the operations side of IT, as a sysadmin, support engine
   <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
   <img src="https://img.shields.io/badge/VictoriaMetrics-621773?style=flat&logo=victoriametrics&logoColor=white" alt="VictoriaMetrics" />
   <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white" alt="Caddy" />
+  <img src="https://img.shields.io/badge/Bruno-F4AA41?style=flat&logo=bruno&logoColor=black" alt="Bruno (API client)" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white" alt="DBeaver" />
   <img src="https://img.shields.io/badge/Jira%20%26%20Confluence-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira and Confluence" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
