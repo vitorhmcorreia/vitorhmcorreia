@@ -41,6 +41,7 @@ I've spent 25+ years on the operations side of IT, as a sysadmin, support engine
 |---|---|
 | [thock-wayland-addon](https://github.com/vitorhmcorreia/thock-wayland-addon) | Thock, an app that plays keyboard click sounds, only worked on X11. This makes it work on Wayland: a small, locked-down system service reads the key presses, so the app itself never needs access to the keyboard |
 | [nextcloud-passwords-manager](https://github.com/vitorhmcorreia/nextcloud-passwords-manager) | A desktop app for my self-hosted password manager (Nextcloud Passwords) that keeps working offline |
+| [go-sendemail](https://github.com/vitorhmcorreia/go-sendemail) | Scripts and cron jobs need to e-mail a report or an alert, attachments included, without installing a mail client or building MIME by hand. One static binary that hands a standards-compliant message to the local mail relay |
 
 <p align="center">
   <picture>
